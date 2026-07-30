@@ -30,9 +30,14 @@ The goal of this setup is to enable remote access to a Windows environment hoste
 **Key Features**
 
   ->Fully cloud-hosted Windows environment.
+  
   ->Secure, remote access from Linux using RDP.
+  
   ->Configurable networking and access controls.
+  
   ->Ideal for cross-platform development and testing.
+
+  
 
 **YouTube Link**:-
   https://www.youtube.com/watch?v=HHDasKLYL-4
